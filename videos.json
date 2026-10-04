@@ -1,5 +1,13 @@
 [
  {
+  "slug": "grok-bot",
+  "title": "Grok Bot explained",
+  "note": "final v2 \u00b7 posted",
+  "dur": 41.0,
+  "date": "2026-10-05",
+  "v": 1791147663
+ },
+ {
   "slug": "swarm-remotion",
   "title": "Test: swarm scene in Remotion",
   "note": "compare with the HyperFrames scene inside the OpenAI reel",
