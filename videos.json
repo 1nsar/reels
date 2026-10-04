@@ -1,5 +1,13 @@
 [
  {
+  "slug": "swarm-remotion",
+  "title": "Test: swarm scene in Remotion",
+  "note": "compare with the HyperFrames scene inside the OpenAI reel",
+  "dur": 8.1,
+  "date": "2026-10-05",
+  "v": 1791147657
+ },
+ {
   "slug": "openai-agents",
   "title": "OpenAI agents went rogue",
   "note": "v3 \u00b7 emotional voice, real headlines, robot sprite",
