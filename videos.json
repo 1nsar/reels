@@ -1,5 +1,13 @@
 [
  {
+  "slug": "voice-test-oct",
+  "title": "Voice test: 10 options, same line",
+  "note": "Pick a number",
+  "dur": 128.3,
+  "date": "2026-10-16",
+  "v": 1792095859
+ },
+ {
   "slug": "openai-dots-b",
   "title": "OpenAI Dots, option B (paper style, 5 things)",
   "note": "Remotion \u00b7 39s",
