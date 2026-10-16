@@ -1,5 +1,13 @@
 [
  {
+  "slug": "voice-test-deep",
+  "title": "Voice test 3: deeper, calmer, punchier",
+  "note": "Voices 13-22",
+  "dur": 90.9,
+  "date": "2026-10-16",
+  "v": 1792169718
+ },
+ {
   "slug": "voice-test-soft",
   "title": "Voice test 2: soft and expressive options",
   "note": "Voices 10-12",
