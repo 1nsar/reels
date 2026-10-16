@@ -1,5 +1,13 @@
 [
  {
+  "slug": "test-ltx25",
+  "title": "Test: LTX 2.5 (Phosphene) on your Mac (free)",
+  "note": "512x960, 5s, 3.5 min to render",
+  "dur": 5.0,
+  "date": "2026-10-16",
+  "v": 1792169363
+ },
+ {
   "slug": "test-wan22",
   "title": "Test: Wan 2.2 5B on your Mac (free)",
   "note": "704x1280, 2s, 20 min to render",
