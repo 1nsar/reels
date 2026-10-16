@@ -1,5 +1,13 @@
 [
  {
+  "slug": "voice-test-soft",
+  "title": "Voice test 2: soft and expressive options",
+  "note": "Voices 10-12",
+  "dur": 30.6,
+  "date": "2026-10-16",
+  "v": 1792169478
+ },
+ {
   "slug": "test-ltx25",
   "title": "Test: LTX 2.5 (Phosphene) on your Mac (free)",
   "note": "512x960, 5s, 3.5 min to render",
