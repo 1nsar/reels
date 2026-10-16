@@ -1,5 +1,13 @@
 [
  {
+  "slug": "test-wan22",
+  "title": "Test: Wan 2.2 5B on your Mac (free)",
+  "note": "704x1280, 2s, 20 min to render",
+  "dur": 2.0,
+  "date": "2026-10-16",
+  "v": 1792168238
+ },
+ {
   "slug": "voice-test-oct",
   "title": "Voice test: 10 options, same line",
   "note": "Pick a number",
